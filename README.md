@@ -1,4 +1,4 @@
-💳 Fintech Wallet System
+💳 Digital-payment System
 
 A full-stack digital wallet application built using React, Spring Boot, and MySQL that allows users to securely register, manage wallets, transfer money, and track transaction history.
 
@@ -52,7 +52,7 @@ Tools
 
 📂 Project Structure
 
-fintech-wallet-system
+Digital-payment System
 │
 ├── frontend
 │   ├── components
@@ -132,7 +132,7 @@ GET| "/api/transaction/history/{userId}"
 
 Clone Repository
 
-git clone https://github.com/sharmayush06/fintech-wallet-system.git
+git clone https://github.com/devanshkaushik17/fintech-wallet-system.git
 
 Backend
 
@@ -191,9 +191,9 @@ spring.jpa.show-sql=true
 
 👨‍💻 Author
 
-Ayush Sharma
+Devansh Kaushik
 
-- GitHub: https://github.com/sharmayush06
+- GitHub: https://github.com/devanshkaushik17
 
 ---
 
